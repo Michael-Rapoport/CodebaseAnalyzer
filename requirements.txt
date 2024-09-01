@@ -1,0 +1,10 @@
+PyQt6>=6.5.0
+networkx>=3.0
+matplotlib>=3.6.0
+PyGithub>=1.58.0
+astroid>=2.14.0
+pylint>=2.16.0
+transformers>=4.30.0
+openai>=0.27.0
+anthropic>=0.3.0
+qdarkstyle>=3.0
