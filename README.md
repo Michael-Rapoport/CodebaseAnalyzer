@@ -1,6 +1,6 @@
 # Codebase Analyzer
 
-Codebase Analyzer is an advanced tool for analyzing and visualizing codebases. It provides features such as dependency analysis, code complexity metrics, and 3D visualization of code structure.
+Codebase Analyzer is an advanced tool for analyzing and visualizing codebases. It provides features such as dependency analysis, code complexity metrics, and 3D visualization of code structure. It can also create knowledge graphs from a codebase for use with LLMs. 
 
 ## Features
 
